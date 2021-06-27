@@ -1,4 +1,4 @@
 # html_css_example
-resume_exp
+resume_web page example
 
 ![figure](./preview.png)
